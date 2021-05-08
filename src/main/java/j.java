@@ -7,7 +7,4 @@
  * @author Sapar
  */
 public class j {
-
-
-
 }
