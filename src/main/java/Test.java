@@ -9,7 +9,7 @@
  */
 public class Test {
     {
-        System.out.println("hello");
+        System.out.println("hello world");
         System.out.println("name");
         System.out.println("surname");
         System.out.println("smart func");
