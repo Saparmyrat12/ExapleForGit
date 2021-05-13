@@ -13,7 +13,5 @@ public class Test {
         System.out.println("name");
         System.out.println("surname");
         System.out.println("smart func");
-        System.out.println("new func by me");
-
     }
 }
