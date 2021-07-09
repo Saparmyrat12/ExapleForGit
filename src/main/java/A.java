@@ -6,5 +6,7 @@
  *
  * @author Sapar
  */
-public class j {
+public class A {
+
+
 }

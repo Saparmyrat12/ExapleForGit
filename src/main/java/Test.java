@@ -16,21 +16,6 @@ public class Test {
         states.put(4, "France");
         states.put(3, "Italy");
 
-
-//        for (Map.Entry<Integer, String> item : states.entrySet()) {
-//            System.out.printf("Key: %d  Value: %s \n", item.getKey(), item.getValue());
-//        }
-//
-//        Set<Integer> keys = states.keySet();
-//        System.out.println("Ключи: " + keys);
-//
-//        ArrayList<String> values = new ArrayList<>(states.values());
-//        System.out.println("Значения: " + values);
-//        Iterator<String> iter = values.listIterator();
-//        while (iter.hasNext()){
-//            System.out.println(iter.next());
-//        }
-
         Iterator<Map.Entry<Integer, String>> itr = states.entrySet().iterator();
 
         while (itr.hasNext()) {
